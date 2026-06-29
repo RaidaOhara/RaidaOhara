@@ -48,9 +48,9 @@
 
 <p align="center">
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight"/>
+<img width="47%" src="https://github-readme-stats.vercel.app/api?username=RaidaOhara&show_icons=true&theme=tokyonight"/>
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaidaOhara&layout=compact&theme=tokyonight"/>
 
 </p>
 
